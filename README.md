@@ -4,7 +4,8 @@ This is a simple script which find all the users that are register on the system
 
 You can copy the script here down or also can be cloned or downloaded.
 
-Example of result.
+Example of result:
+
 ```txt
 ---------------------------------------------------------------------------
 | Usr: maxter || Id: 1000 || Home: /home/maxter || Shell: /usr/bin/zsh |
@@ -16,7 +17,7 @@ Grupo: vboxusers || ID: 108
 ```
 
 
-Script
+Script:
 
 ```bash
 #!/bin/bash
