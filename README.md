@@ -1,6 +1,9 @@
 # Script Usr Grp
 
-This is a simple script which find all the users that are register on the system and match them with their **Ids**, **groups**, type of **Bash**, location of **Home** and the **Shell** which he uses.
+This is a simple script provides the following information of all the users that are registered on the system and match them with their **Ids**, **Groups**, type of **Bash**, location of **Home** and the **Shell** which he uses.
+
+#### Tested
+This script works on **Arch Linux**, **Kali Linux**, **Parrot Os**, **Ubuntu 16++.00** & **Debian**
 
 You can copy the script here down or also can be cloned or downloaded.
 
